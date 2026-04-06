@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { Wifi, Wind, Droplets, Tv, Coffee } from "lucide-react";
 import Layout from "@/components/Layout";
-import heroImg from "@/assets/hotel-real.jpg";
+import heroImg from "@/assets/hero-rooms.jpg";
 import standardImg from "@/assets/room-standard.jpg";
 import deluxeImg from "@/assets/room-deluxe.jpg";
 import familyImg from "@/assets/room-family.jpg";
