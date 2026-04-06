@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { X } from "lucide-react";
 import Layout from "@/components/Layout";
-import heroImg from "@/assets/hero-hotel.jpg";
+import heroImg from "@/assets/hotel-real.jpg";
 import entranceImg from "@/assets/entrance.jpg";
 import lobbyImg from "@/assets/lobby.jpg";
 import standardImg from "@/assets/room-standard.jpg";

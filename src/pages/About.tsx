@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import Layout from "@/components/Layout";
-import heroImg from "@/assets/hero-hotel.jpg";
+import heroImg from "@/assets/hotel-real.jpg";
 import entranceImg from "@/assets/entrance.jpg";
 import gardenImg from "@/assets/garden.jpg";
 import lobbyImg from "@/assets/lobby.jpg";

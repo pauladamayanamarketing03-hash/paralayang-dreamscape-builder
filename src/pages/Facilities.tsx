@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Clock, Wifi, ShieldCheck, Baby, Coffee, ShoppingBag, Camera, Leaf } from "lucide-react";
 import Layout from "@/components/Layout";
-import heroImg from "@/assets/hero-hotel.jpg";
+import heroImg from "@/assets/hotel-real.jpg";
 import lobbyImg from "@/assets/lobby.jpg";
 import breakfastImg from "@/assets/breakfast.jpg";
 import gardenImg from "@/assets/garden.jpg";
