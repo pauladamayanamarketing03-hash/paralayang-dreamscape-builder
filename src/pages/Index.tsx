@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { Wifi, ShieldCheck, Clock, Camera, Utensils, MapPin } from "lucide-react";
 import Layout from "@/components/Layout";
-import heroImg from "@/assets/hero-hotel.jpg";
+import heroImg from "@/assets/hotel-real.jpg";
 import gardenImg from "@/assets/garden.jpg";
 import photoSpotImg from "@/assets/photospot.jpg";
 import lobbyImg from "@/assets/lobby.jpg";

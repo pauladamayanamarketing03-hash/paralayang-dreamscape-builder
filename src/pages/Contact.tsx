@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { MapPin, Phone, Mail, Clock, Facebook, Instagram, Youtube } from "lucide-react";
 import Layout from "@/components/Layout";
-import heroImg from "@/assets/hero-hotel.jpg";
+import heroImg from "@/assets/hotel-real.jpg";
 import { toast } from "sonner";
 
 const Contact = () => {
